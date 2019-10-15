@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://wes123:wes123@contack-keeper-lsrtt.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://wes123:wes123@contack-keeper-lsrtt.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
 }
